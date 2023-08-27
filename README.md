@@ -5,4 +5,4 @@ A second click returns it to its original size. We'll use JavaScript to add and 
 There's an animation for the microphone and search bar when we close and open it.
 This project will teach you how to make a visually appealing and interactive search bar for your website.
 
-[Demo]()
+[Demo](https://praveshnexus.github.io/search-bar/)
